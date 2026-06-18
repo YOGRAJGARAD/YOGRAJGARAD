@@ -18,7 +18,6 @@ Final Year B.E. Artificial Intelligence & Data Science Student passionate about 
 
 🌱 Currently Learning Advanced Data Analytics, Power BI, Machine Learning, and AI Engineering
 
-🎯 Goal: To become a Data Analyst / AI Engineer and solve real-world problems using data and AI
 
 ---
 
@@ -67,49 +66,6 @@ Final Year B.E. Artificial Intelligence & Data Science Student passionate about 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 Causal Semantic Generative AI
-Research-driven Causal AI model for Robust Out-of-Distribution Prediction using PyTorch and Deep Learning.
-
-### 📈 Walmart Sales Analysis
-Performed Data Cleaning, EDA, and Sales Trend Analysis using Python, Pandas, and SQL.
-
-### 📊 Amazon Sales Analysis Dashboard
-Built an interactive Power BI dashboard for business insights, KPI tracking, and sales performance analysis.
-
-### 📚 Library Management System
-Developed a SQL-based database management system for efficient library operations.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOGRAJGARAD&show_icons=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOGRAJGARAD" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-✅ Data Analytics
-
-✅ Power BI
-
-✅ SQL
-
-✅ Python
-
-✅ Machine Learning
-
-✅ Deep Learning
-
-✅ AI Research
 
 ---
 
