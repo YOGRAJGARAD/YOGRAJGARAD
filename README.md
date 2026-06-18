@@ -8,15 +8,15 @@ Final Year B.E. Artificial Intelligence & Data Science Student passionate about 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 Final Year Artificial Intelligence & Data Science Student
+- Final Year Artificial Intelligence & Data Science Student
 
-💡 Passionate about Artificial Intelligence, Data Science, Data Analytics, and Deep Learning
+- Passionate about Artificial Intelligence, Data Science, Data Analytics, and Deep Learning
 
-📊 Interested in Data Analytics, Machine Learning, Predictive Modeling, and Business Intelligence
+- Interested in Data Analytics, Machine Learning, Predictive Modeling, and Business Intelligence
 
-🌱 Currently Learning Advanced Data Analytics, Power BI, Machine Learning, and AI Engineering
+- Currently Learning Advanced Data Analytics, Power BI, Machine Learning, and AI Engineering
 
 
 ---
@@ -49,7 +49,7 @@ Final Year B.E. Artificial Intelligence & Data Science Student passionate about 
 
 ---
 
-## 📊 Core Skills
+## Core Skills
 
 - Python Programming
 - SQL & Database Management
@@ -69,17 +69,17 @@ Final Year B.E. Artificial Intelligence & Data Science Student passionate about 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-📧 Email: yograjgarad4@gmail.com
+-Email: yograjgarad4@gmail.com
 
-🐙 GitHub: https://github.com/YOGRAJGARAD
+-GitHub: https://github.com/YOGRAJGARAD
 
-💼 LinkedIn:https://www.linkedin.com/feed/
+-LinkedIn:https://www.linkedin.com/feed/
 
 ---
 
-⭐ "Turning Data into Insights and Ideas into Intelligent Solutions."
+ "Turning Data into Insights and Ideas into Intelligent Solutions."
 
 <!--
 **YOGRAJGARAD/YOGRAJGARAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
