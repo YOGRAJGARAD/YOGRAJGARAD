@@ -119,7 +119,7 @@ Developed a SQL-based database management system for efficient library operation
 
 🐙 GitHub: https://github.com/YOGRAJGARAD
 
-💼 LinkedIn: Add Your LinkedIn Profile Link Here
+💼 LinkedIn:https://www.linkedin.com/feed/
 
 ---
 
